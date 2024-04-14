@@ -1,9 +1,5 @@
 const fs = require('fs');
 const path = require('path');
-const canvas = require("canvas");
-const { Authflow } = require("prismarine-auth")
-const PlayFab = require("playfab-sdk/Scripts/PlayFab/PlayFab");
-const PlayFabClient = require("playfab-sdk/Scripts/PlayFab/PlayFabClient.js");
 const publicConfig = require(path.resolve(__dirname, "../config.json"));
 /**
  * @type  {{ bot_config: { account: string, host: string, port: number, version: string }, flags: { [category: string], { [flag: string]: (player: import("bedrock-protocol").Player) => boolean } }, methods: { [category: string], { [method: string]: (player.skinData: any) => boolean } }}}
