@@ -1,0 +1,29 @@
+{
+	"result": {
+		"pageId": "personaProfile",
+		"addToRecentlyViewed": false,
+		"rows": [
+			{
+				"controlId": "CharacterSelectorRow",
+				"components": [
+					{
+						"skinsPage": {
+							"linksTo": "MultiItemPage_PersonaSkinSelector",
+							"linkType": "openProfileScreen",
+							"displayType": "store_layout.store_data_driven_screen"
+						},
+						"characterPage": {
+							"linksTo": "MultiItemPage_PersonaCharacterCreator",
+							"linkType": "openProfileScreen",
+							"displayType": "store_layout.store_data_driven_screen"
+						},
+						"type": "characterSelectComp"
+					}
+				]
+			}
+		],
+		"inventoryVersion": "",
+		"screenLayout":"Generic",
+		"pageRefresh": false
+	}
+}

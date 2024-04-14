@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "uuid": "9edd5248-1258-460d-86d0-f76ef47b63ea",
+    "name": "Experimental Armadillo",
+    "description": "Experimental Armadillo",
+    "version": [ 0, 0, 1 ],
+    "min_engine_version": [ 1, 20, 60 ]
+  },
+  "modules": [
+    {
+      "description": "Experimental Armadillo",
+      "type": "data",
+      "uuid": "80a4ec9c-8500-4867-a085-742cbe84e8fb",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}

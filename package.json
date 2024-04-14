@@ -1,0 +1,16 @@
+{
+  "name": "automoderationsigma",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "dependencies": {
+    "bedrock-protocol": "^3.35.0",
+    "minecraft-data": "^3.64.1"
+  }
+}

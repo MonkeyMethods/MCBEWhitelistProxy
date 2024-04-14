@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "uuid": "ddfce3eb-4cad-4816-97e2-6926393b83cb",
+    "name": "update announced live 2023",
+    "description": "Update Announced Live 2023",
+    "version": [ 0, 0, 1 ],
+    "min_engine_version": [ 1, 20, 70 ]
+  },
+  "modules": [
+    {
+      "description": "Next major update in development",
+      "type": "data",
+      "uuid": "ce7bfaa6-73ad-4d95-98fe-851ae2d076b2",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}
