@@ -12,7 +12,7 @@ module.exports = {
         // },
         "host": "127.0.0.1",
         port: 19132,
-        "version": "1.20.71",
+        "version": "1.20.81",
     },
     "flags": {
         "skin_checks": {
