@@ -1,7 +1,7 @@
 const discord = require("discord.js");
-const fs = require("fs")
-const { spawn } = require("child_process");
-const path = require("path");
+const fs = require("node:fs")
+const { spawn } = require("node:child_process");
+const path = require("node:path");
 let clients = {};
 const getClients = () => clients;
 const setClients = (newClients) => clients = newClients;
